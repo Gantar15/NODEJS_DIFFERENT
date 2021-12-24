@@ -1,0 +1,12 @@
+{
+  "name": "sandboxes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js C:\\Users\\Egor\\Desktop\\node_projects\\NODEJS_PREISPOLNYAUS+COMPUTER_SCIENCE\\sandboxes\\app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

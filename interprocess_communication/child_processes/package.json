@@ -1,0 +1,12 @@
+{
+  "name": "interprocess_communication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node master.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
